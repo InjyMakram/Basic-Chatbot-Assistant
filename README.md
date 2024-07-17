@@ -17,7 +17,7 @@ Key Features:
 
 
 Demo
-Check out the chatbot in action: [![Real-Time-Color-Detection-using-HSV-Color-Space](https://youtu.be/sqU9CAwCpHc)](https://www.youtube.com/watch?v=sqU9CAwCpHc) 
+Check out the chatbot in action: [![Basic Chatbot Assistant](https://youtu.be/sqU9CAwCpHc)](https://www.youtube.com/watch?v=sqU9CAwCpHc) 
 
 
 
